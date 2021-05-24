@@ -4,4 +4,4 @@
 - I’m currently learning C, C++, Java
 - My e-mail: ovcharenko@outlook.com
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/nhoras?privacyName=true)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/nhoras??darkmode=true&privacyName=true)](https://github.com/JaeSeoKim/badge42)
