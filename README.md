@@ -10,7 +10,7 @@
 
 ## 📁 Projects
 
-### [Console Image crop-resize app](https://github.com/nhoras/crop_resize) 06.2021
+### [Console Image crop-resize app](https://github.com/nhoras/crop_resize) 05.2021
 Java 11, Maven, junit5
 
 ### [Telegram Weather Bot](https://github.com/nhoras/TelegramWeatherBot) 07.2021
