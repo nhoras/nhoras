@@ -9,15 +9,15 @@
   </a>&nbsp;&nbsp;
 
 ## 📁 Projects
-
-### [Console Image crop-resize app](https://github.com/nhoras/crop_resize) 05.2021
-Java 11, Maven, junit5
+   
+### [MVC LMS (learning management system)](https://github.com/nhoras/MVC-LMS) 08.2021
+Java 11, Spring (Boot, Data JPA, Security), Thymeleaf, Maven, PostgreSQL, junit5
 
 ### [Telegram Weather Bot](https://github.com/nhoras/TelegramWeatherBot) 07.2021
 Java 11, Spring Boot, TelegramBots API, Maven
 
-### [MVC LMS (learning management system)](https://github.com/nhoras/MVC-LMS) 08.2021
-Java 11, Spring (Boot, Data JPA, Security), Thymeleaf, Maven, PostgreSQL, junit5
+### [Console Image crop-resize app](https://github.com/nhoras/crop_resize) 05.2021
+Java 11, Maven, junit5
 
 ## 👨‍💻 Hackathon
 [MTS.TETA](https://edtech17.notion.site/2021-b5aa7c065dc04ca59aefe057fb7344e0) 08.2021 - [winner](https://drive.google.com/file/d/1JrL_VCDoQoAsaDdXlsvbPlVLzT9sg6Gr/view?usp=sharing) 
@@ -35,5 +35,5 @@ Java 11, Spring (Boot, Data JPA, Security), Thymeleaf, Maven, PostgreSQL, junit5
 * [MTS.TETA](https://www.teta.mts.ru/backend_program_description) 06.2021 to 08.2021 - Java Backend
 
 ## 🛠 Technical Stack
-* Java, Maven, Spring Framework: Boot, Test, Data JPA, Data JDBC, Security
+* Java, Maven, Spring Framework: Boot, Test, Data JPA, Data JDBC, Security, Validation
 * PostgreSQL, Git, Docker
