@@ -8,9 +8,6 @@
     <img src="https://img.shields.io/badge/mail-eb4235?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
 
-## 👨‍💻 Hackathon
-[MTS.TETA](https://edtech17.notion.site/2021-b5aa7c065dc04ca59aefe057fb7344e0) 08.2021 - [winner](https://yadi.sk/i/Zo1FV4ZxsFg_8Q) 
-
 ## 🎓 Education
 * SberUniversity - 2021 - [Java Developer](https://yadi.sk/i/L1xJ8sg-wvtJ8w)
 * RSUE - 2021 - [Master's degree](https://disk.yandex.ru/i/t6ZrSvQfHQKXvw)
@@ -23,6 +20,9 @@
 * [Tinkoff Fintech](https://fintech.tinkoff.ru/study/fintech/java/) autumn 2021 - Java Backend
 * [MTS.TETA](https://www.teta.mts.ru/backend_program_description) summer 2021 - Java Backend
 * [École 42](https://42.fr/) 10.2020 to 12.2021 - C, C++, Unix
+   
+## 👨‍💻 Hackathon
+[MTS.TETA](https://edtech17.notion.site/2021-b5aa7c065dc04ca59aefe057fb7344e0) 08.2021 - [winner](https://yadi.sk/i/Zo1FV4ZxsFg_8Q) 
 
 ## 🛠 Technical Stack
 * Java, Maven, Gradle, Spring Framework
