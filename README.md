@@ -1,4 +1,4 @@
-# Hi, I'm Sergey Ovcharenko 👋
+# Hi, I'm Sergei Foster 👋
 
 <p align='center'>
    <a href="https://t.me/se_foster" target="_blank">
