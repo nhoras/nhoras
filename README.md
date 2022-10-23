@@ -26,4 +26,4 @@
 
 ## 🛠 Technical Stack
 * Java, Maven, Gradle, Spring Framework
-* PostgreSQL, MySQL, ClickHouse
+* PostgreSQL, MySQL, ClickHouse, YDB
