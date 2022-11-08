@@ -7,6 +7,9 @@
    <a href="mailto:dm@sefoster.ru" target="_blank">
     <img src="https://img.shields.io/badge/mail-eb4235?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sergei-foster/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0B66C2?style=for-the-badge&logo=linkedin&logoColor=white" />        
+  </a>&nbsp;&nbsp;
 
 ## 🎓 Education
 * SberUniversity - 2021 - [Java Developer](https://yadi.sk/i/L1xJ8sg-wvtJ8w)
