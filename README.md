@@ -15,7 +15,7 @@
 * College of IEFER of SFU - 2009 - [Financier](https://disk.yandex.ru/i/WiWy7bBhSIoj7g)
 
 ## 🖥 External IT Education
-* [OTUS](https://otus.ru/lessons/java-professional/) 03.2021 to present - Java Developer Professional 
+* [OTUS](https://otus.ru/lessons/java-professional/) 03.2022 - 09.2022 - Java Developer Professional 
 * [Yandex Academy](https://academy.yandex.ru/schools/backend) autumn 2021 - Java Backend
 * [Tinkoff Fintech](https://fintech.tinkoff.ru/study/fintech/java/) autumn 2021 - Java Backend
 * [MTS.TETA](https://www.teta.mts.ru/backend_program_description) summer 2021 - Java Backend
