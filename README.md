@@ -10,10 +10,10 @@
   </a>&nbsp;&nbsp;
 
 ## 🎓 Education
-* SberUniversity - 2021 - [Java Developer](https://yadi.sk/i/L1xJ8sg-wvtJ8w)
-* RSUE - 2021 - [Master's degree](https://disk.yandex.ru/i/t6ZrSvQfHQKXvw)
-* SFU - 2013 - [Computer scientist-economist](https://disk.yandex.ru/i/mUxEBB99KWtc2w)
-* College of IEFER of SFU - 2009 - [Financier](https://disk.yandex.ru/i/WiWy7bBhSIoj7g)
+* SberUniversity - 2021 - Java Developer
+* RSUE - 2021 - Master's degree
+* SFU - 2013 - Computer scientist-economist
+* College of IEFER of SFU - 2009 - Financier
 
 ## 🖥 External IT Education
 * [OTUS](https://otus.ru/lessons/java-professional/) 03.2022 - 09.2022 - Java Developer Professional 
